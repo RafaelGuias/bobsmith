@@ -1,0 +1,25 @@
+{
+  "name": "bobsmith",
+  "version": "1.0.0",
+  "description": "small website for a graphic designer called bob smith",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelGuias/bobsmith.git"
+  },
+  "author": "Rafael Guias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelGuias/bobsmith/issues"
+  },
+  "homepage": "https://github.com/RafaelGuias/bobsmith#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jquery": "^3.4.0"
+  }
+}
